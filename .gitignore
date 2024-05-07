@@ -1,0 +1,56 @@
+# Ignore Next.js build output
+/.next/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment files
+.env*
+
+# Ignore development server logs
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore macOS file system metadata
+.DS_Store
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
+
+# Ignore TypeScript build output
+/out/
+
+# Ignore production build artifacts
+/.build/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore Visual Studio Code workspace settings
+*.code-workspace
+
+# Ignore Next.js development server cache
+/.next/cache/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore test snapshots
+__tests__/__snapshots__/
+
+# Ignore Next.js telemetry
+next-telemetry.json
+
+# Ignore vercel build output
+.vercel/
+
+# Ignore vercel cache and logs
+.cache/
+logs/
